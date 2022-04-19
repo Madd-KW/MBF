@@ -27,21 +27,21 @@
 
      pip install mechanize
 
-cd $HOME  
+     cd $HOME  
 
-rm -rf MBF  
+     rm -rf MBF  
 
-git clone https://github.com/Madz4You/MBF  
+     git clone https://github.com/Madz4You/MBF  
 
 
 • Cara Menjalankan Scripts  
 
-cd $HOME  
+     cd $HOME  
 
-cd MBF
+     cd MBF
 
 
-ls  
+     ls  
 
      python MBF.py
 
