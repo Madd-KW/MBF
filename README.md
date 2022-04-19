@@ -42,24 +42,24 @@ cd MBF
 
 ls  
 
-python MBF.py
+     python MBF.py
 
 [LOGIN]
 
-• TOKEN (EAAB)
+    • TOKEN (EAAB)
 
-• COKIEE EROR
+    • COKIEE EROR
 
 [METHOD]
 
-• B-API
+     • B-API
 
-• MOBILE
+     • MOBILE
 
-• FREE FB
+     • FREE FB
 
 [NOTE] 
-Hasil Cp? Makanya Beli Premium
+      Hasil Cp? Makanya Beli Premium
 
 
        Jangan Lupa Follow Dan Kasih Bintang :)
