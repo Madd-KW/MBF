@@ -1,6 +1,9 @@
 # MBF
+
 • Cara Install Scripts   
+
 pkg update
+
 pkg upgrade  
 
 pkg install python  
@@ -29,7 +32,9 @@ rm -rf MBF
 
 git clone https://github.com/Madz4You/MBF  
 
+
 • Cara Menjalankan Scripts  
+
 cd $HOME  
 
 cd MBF
@@ -51,9 +56,9 @@ python MBF.py
 
 • MOBILE
 
-• MBASIC
+• FREE FB
 
-[NOTE]
+[NOTE] 
 Hasil Cp? Makanya Beli Premium
 
 
