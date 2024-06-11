@@ -1,1 +1,10 @@
+persamaan kuadarat
+abc : x1,2 = -b ± √b2 - 4.a.c / 2
+jenis akar akar : d = b2 - 4.a.c
 
+fungsi kuadrat
+nilai sumbu : -b/2.a 
+titik puncak : -b/2.a > -d/4.a
+
+permutasi faktorial
+3! = 3.2.1 = 6
